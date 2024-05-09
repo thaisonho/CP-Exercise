@@ -1,4 +1,4 @@
-.// Link:
+// Link:
 
 #include <iostream>
 #include <queue>
